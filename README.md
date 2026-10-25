@@ -34,4 +34,4 @@ I'm an MCA student with a background in PHP and MySQL development. I'm passionat
 
 ---
 
-*Learning, building, and improving every day.*
+*Learning, building, and improving every day..*
