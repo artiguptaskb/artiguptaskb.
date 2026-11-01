@@ -16,6 +16,7 @@ I'm an MCA student with a background in PHP and MySQL development. I'm passionat
 
 ## 🚀 Featured Projects
 
+- Dynamic Dashboard using Excel
 - **Hospital Data Analysis Using Excel** — Data analysis using Excel, data cleaning, and PivotTables.
 - **Web Development Projects** — Practical web applications using PHP, MySQL, JavaScript, and Laravel.
 
